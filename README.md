@@ -2,7 +2,7 @@
 
 -----------------------------------------------------
 - 👀 I’m interested in: cooking, travaling, gaming and of course coding.
-- 🌱 I’m currently learning java, spring framework and all aroud it.
+- 🌱 I’m currently dive in to java, spring framework and all aroud it.
 - 📫 How to reach me: tsvikevich@yandex.ru
 -----------------------------------------------------
 
